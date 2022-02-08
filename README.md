@@ -7,4 +7,6 @@ devops uk update
 testing mub
 devops singapore
 devops aus
+devops noida
+devops delhi
 
