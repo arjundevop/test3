@@ -4,3 +4,5 @@ suresh
 testing
 devops usa update
 devops uk update
+devops singapore
+devops aus
